@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.6.1">
+  <diagram name="Page-1" id="SVzT71tKuqJpFenRU_uV">
+    <mxGraphModel dx="1144" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A6JMjvTnk42MOhAVuyl1-20" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;whiteSpace=wrap;" value="Kissena Bakery &amp;nbsp;- &amp;nbsp;Revenue Cycle (order-to-Cash)" vertex="1">
+          <mxGeometry height="1050" width="790" x="50" y="-1080" as="geometry" />
+        </mxCell>
+        <mxCell id="A6JMjvTnk42MOhAVuyl1-21" parent="A6JMjvTnk42MOhAVuyl1-20" style="swimlane;html=1;startSize=20;" value="Sales Department &amp;nbsp;" vertex="1">
+          <mxGeometry height="1050" width="250" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A6JMjvTnk42MOhAVuyl1-22" parent="A6JMjvTnk42MOhAVuyl1-20" style="swimlane;html=1;startSize=20;" value="Warehouse Department" vertex="1">
+          <mxGeometry height="1050" width="250" x="270" as="geometry" />
+        </mxCell>
+        <mxCell id="A6JMjvTnk42MOhAVuyl1-23" parent="A6JMjvTnk42MOhAVuyl1-20" style="swimlane;html=1;startSize=20;" value="Billing/Account Receivables&amp;nbsp;" vertex="1">
+          <mxGeometry height="1050" width="270" x="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
