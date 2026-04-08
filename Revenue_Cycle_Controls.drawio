@@ -4,16 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;html=1;" value="Kissena Bakery - Revenue Cycle&amp;nbsp;" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Kissena Bakery - Revenue Cycle (0rder-to-Cash)&amp;nbsp;" vertex="1">
           <mxGeometry height="820" width="1040" x="40" y="-840" as="geometry" />
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-2" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-2" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;" value="Sales Department&amp;nbsp;" vertex="1">
           <mxGeometry height="260" width="1040" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-3" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 2" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-10" parent="vbSZbAuTj6DqNWfwEv99-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#00CC00;strokeColor=#99FF99;" value="&lt;b&gt;START&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-3" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Warehouse Department&amp;nbsp;" vertex="1">
           <mxGeometry height="260" width="1040" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-4" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-4" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Billing / Accounts Receivables&amp;nbsp;" vertex="1">
           <mxGeometry height="260" width="1040" y="560" as="geometry" />
         </mxCell>
       </root>
