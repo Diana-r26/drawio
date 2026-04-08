@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.6.6">
   <diagram name="Page-1" id="SVzT71tKuqJpFenRU_uV">
-    <mxGraphModel dx="2000" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="Pool" vertex="1">
-          <mxGeometry height="380" width="1080" x="10" y="-820" as="geometry" />
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;html=1;" value="Kissena Bakery - Revenue Cycle&amp;nbsp;" vertex="1">
+          <mxGeometry height="820" width="1040" x="40" y="-840" as="geometry" />
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-2" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
-          <mxGeometry height="120" width="1080" y="20" as="geometry" />
+          <mxGeometry height="260" width="1040" y="40" as="geometry" />
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-3" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 2" vertex="1">
-          <mxGeometry height="120" width="1080" y="140" as="geometry" />
+          <mxGeometry height="260" width="1040" y="300" as="geometry" />
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-4" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
-          <mxGeometry height="120" width="1080" y="260" as="geometry" />
+          <mxGeometry height="260" width="1040" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
