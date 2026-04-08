@@ -129,8 +129,14 @@
         <mxCell id="vbSZbAuTj6DqNWfwEv99-65" parent="vbSZbAuTj6DqNWfwEv99-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FF9933;strokeColor=#CC6600;" value="Goods Picked &amp;amp; Packed&amp;nbsp;" vertex="1">
           <mxGeometry height="50" width="120" x="430" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-80" edge="1" parent="vbSZbAuTj6DqNWfwEv99-3" source="vbSZbAuTj6DqNWfwEv99-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vbSZbAuTj6DqNWfwEv99-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-73" parent="vbSZbAuTj6DqNWfwEv99-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FF9933;" value="Shipping Authorization Verified&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="140" x="750" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-79" parent="vbSZbAuTj6DqNWfwEv99-3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="Continued Page 2&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="940" y="5" as="geometry" />
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-4" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Billing / Accounts Receivables&amp;nbsp;" vertex="1">
           <mxGeometry height="260" width="1040" y="560" as="geometry" />
