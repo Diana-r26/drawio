@@ -155,6 +155,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bmBlaW4wbNAK8OujpGMp-2" edge="1" parent="1" source="jWiAdtI33RXGFQeQFG8V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="u03_kEUUgQqC1wuUfv-u-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="55" />
+              <mxPoint x="120" y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWiAdtI33RXGFQeQFG8V-1" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="Continued Page 2&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="70" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="u03_kEUUgQqC1wuUfv-u-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#ffb43f, #36210a);strokeColor=#d79b00;" value="Good Dispatched to Customer&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="100" x="120" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
