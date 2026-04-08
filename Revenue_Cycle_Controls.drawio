@@ -26,28 +26,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-10" parent="vbSZbAuTj6DqNWfwEv99-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#00CC00;strokeColor=#99FF99;" value="&lt;b&gt;START&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="50" y="20" as="geometry" />
+          <mxGeometry height="60" width="100" x="30" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-24" edge="1" parent="vbSZbAuTj6DqNWfwEv99-2" source="vbSZbAuTj6DqNWfwEv99-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-24" edge="1" parent="vbSZbAuTj6DqNWfwEv99-2" source="vbSZbAuTj6DqNWfwEv99-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-11" parent="vbSZbAuTj6DqNWfwEv99-2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#f5ec00, #ededed);fillColor=light-dark(#FFFFC4,#EDEDED);" value="Customer Places Order&amp;nbsp;" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-11" parent="vbSZbAuTj6DqNWfwEv99-2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#006d8f, #ededed);fillColor=light-dark(#66B2FF,#EDEDED);" value="Customer Places Order&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="130" x="190" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-15" parent="vbSZbAuTj6DqNWfwEv99-2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;align=center;fillColor=light-dark(#f1c9fe, #ededed);strokeColor=light-dark(#be38f3, #ededed);" value="Order Details Entered into System&amp;nbsp;" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-15" parent="vbSZbAuTj6DqNWfwEv99-2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;align=center;fillColor=light-dark(#94e3fe, #EDEDED);strokeColor=light-dark(#008cb4, #ededed);" value="Order Details Entered into System&amp;nbsp;" vertex="1">
           <mxGeometry height="90" width="130" x="360" y="5" as="geometry" />
-        </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-19" parent="vbSZbAuTj6DqNWfwEv99-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=light-dark(#ffdad8, #ededed);strokeColor=light-dark(#ed719e, #ededed);" value="Sales Order Generated&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="120" x="540" y="5" as="geometry" />
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-39" edge="1" parent="vbSZbAuTj6DqNWfwEv99-2" source="vbSZbAuTj6DqNWfwEv99-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-23" parent="vbSZbAuTj6DqNWfwEv99-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=light-dark(#00a3d7, #ededed);fillColor=light-dark(#94e3fe, #ededed);" value="Credit Check Approved ?" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-23" parent="vbSZbAuTj6DqNWfwEv99-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=light-dark(#f5ec00, #ededed);fillColor=light-dark(#fff995, #ededed);" value="Credit Check Approved ?" vertex="1">
           <mxGeometry height="105" width="110" x="700" y="5" as="geometry" />
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-41" edge="1" parent="vbSZbAuTj6DqNWfwEv99-2" source="vbSZbAuTj6DqNWfwEv99-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
@@ -61,6 +58,9 @@
         <mxCell id="vbSZbAuTj6DqNWfwEv99-31" parent="vbSZbAuTj6DqNWfwEv99-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FF3333,#EDEDED);strokeColor=light-dark(#b51a00, #ededed);" value="Order Rejected - Customer Notified&amp;nbsp;" vertex="1">
           <mxGeometry height="50" width="100" x="710" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-43" edge="1" parent="vbSZbAuTj6DqNWfwEv99-2" source="vbSZbAuTj6DqNWfwEv99-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vbSZbAuTj6DqNWfwEv99-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-28" parent="vbSZbAuTj6DqNWfwEv99-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="YES- Approved&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="100" x="830" y="42.5" as="geometry" />
         </mxCell>
@@ -69,11 +69,31 @@
             <mxPoint x="755" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vbSZbAuTj6DqNWfwEv99-3" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Warehouse Department&amp;nbsp;" vertex="1">
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-45" edge="1" parent="vbSZbAuTj6DqNWfwEv99-2" source="vbSZbAuTj6DqNWfwEv99-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-42" parent="vbSZbAuTj6DqNWfwEv99-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#3333FF;fillColor=light-dark(#d4e3fe, #512551);" value="Sales Order Authorize &amp;amp; Released to warehouse&amp;nbsp;" vertex="1">
+          <mxGeometry height="67.5" width="100" x="940" y="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-19" parent="vbSZbAuTj6DqNWfwEv99-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=light-dark(#caf0fe, #ededed);strokeColor=light-dark(#006d8f, #ededed);" value="Sales Order Generated&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="120" x="530" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-3" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fff2cc;strokeColor=#FF8000;" value="Warehouse Department&amp;nbsp;" vertex="1">
           <mxGeometry height="260" width="1040" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-44" parent="vbSZbAuTj6DqNWfwEv99-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FFE6CC;strokeColor=#FF9933;" value="Sales order Received by warehouse&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="120" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-48" parent="vbSZbAuTj6DqNWfwEv99-3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="180" as="geometry" />
         </mxCell>
         <mxCell id="vbSZbAuTj6DqNWfwEv99-4" parent="vbSZbAuTj6DqNWfwEv99-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Billing / Accounts Receivables&amp;nbsp;" vertex="1">
           <mxGeometry height="260" width="1040" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="vbSZbAuTj6DqNWfwEv99-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cross-lane handoff&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="130" x="390" y="-640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
